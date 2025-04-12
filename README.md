@@ -91,7 +91,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/virtual-keyboard.git
+git clone gh repo clone Tech-Titans21/virtual-keyboard
 cd virtual-keyboard
 Install dependencies:
 
